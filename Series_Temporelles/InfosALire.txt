@@ -1,0 +1,2 @@
+Les csv ici sont de la Période du 12/03/2021 au 02/05/2021 inclus (12 Mars au 2 Mai)
+Ce qui fait 8 weekends successifs (samedi,dimanche), 52 jours, 7 semaines avec des jours de la semaine (lundi,mardi...)
